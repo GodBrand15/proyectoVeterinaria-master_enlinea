@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/proyectoVeterinaria-master_enlinea.iml" filepath="$PROJECT_DIR$/.idea/proyectoVeterinaria-master_enlinea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyectoVeterinaria-master/veterinariaf/veterinariaf.iml" filepath="$PROJECT_DIR$/proyectoVeterinaria-master/veterinariaf/veterinariaf.iml" />
+    </modules>
+  </component>
+</project>
